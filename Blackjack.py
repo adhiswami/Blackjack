@@ -1,7 +1,5 @@
 import random
 
-# ADD COMMENTS!!!
-
 cardNum = ['Ace', '2', '3', '4', '5', '6', '7', '8', '9', '10', 'Jack', 'Queen', 'King']
 cardTypes = ['Hearts', 'Diamonds', 'Clubs', 'Spades']
 deck = []
